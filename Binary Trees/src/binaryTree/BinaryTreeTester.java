@@ -1,5 +1,14 @@
 package binaryTree;
 
+/**
+* This class is used to show examples of how the sorting methods work and helps
+* test the methods to ensure they are working as intended.
+* 
+* @author Lewis Scrivens
+* @version December 2017
+*/
+
+
 public class BinaryTreeTester
 {
 	public static void main(String[] args) 

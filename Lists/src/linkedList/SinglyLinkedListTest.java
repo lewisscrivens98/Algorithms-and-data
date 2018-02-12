@@ -6,6 +6,14 @@ import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;
 
+/**
+ * A Test class for the SinglyLinkedList class to ensure all the methods work as intended
+ * and the List created is in fact singly linked.
+ * 
+ * @author Lewis Scrivens
+ * @version December 2017
+ */
+
 public class SinglyLinkedListTest 
 {
 	@Rule

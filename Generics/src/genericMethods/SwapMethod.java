@@ -2,6 +2,13 @@ package genericMethods;
 
 import java.util.Arrays;
 
+/**
+ * A generic method to swap two items in a given array.
+ * 
+ * @author Lewis Scrivens
+ * @version November 2017
+ */
+
 public class SwapMethod 
 {
 	// Method takes a string and two integers which represent the array indices to swap.
@@ -27,7 +34,7 @@ public class SwapMethod
 		}
 	}
 	
-	static void printArray(String[] array)
+	public void printArray(String[] array)
 	{
 		System.out.println(Arrays.toString(array));// Print swapped array to console.
 	}

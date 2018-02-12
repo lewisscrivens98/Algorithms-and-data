@@ -4,6 +4,13 @@ import java.util.Arrays;
 
 import RandomArray.*;
 
+/**
+ * An example of the SelectionSort working and printing the sorted list to the console.
+ * 
+ * @author Lewis Scrivens
+ * @version November 2017
+ */
+
 public class SelectionSortExample
 {
 	public static void main(String[] args) {

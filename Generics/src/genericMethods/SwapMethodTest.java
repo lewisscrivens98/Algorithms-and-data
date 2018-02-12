@@ -4,6 +4,13 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+/**
+ * A Test class for the SwapMethod class to ensure the methods work as intended.
+ * 
+ * @author Lewis Scrivens
+ * @version November 2017
+ */
+
 public class SwapMethodTest 
 {	
 	@Test

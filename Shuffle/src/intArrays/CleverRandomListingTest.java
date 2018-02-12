@@ -2,6 +2,13 @@ package intArrays;
 
 import static org.junit.Assert.*;
 
+/**
+ * A Testing class for the CleverRandomListing class to ensure all methods work as intended.
+ * 
+ * @author Lewis Scrivens
+ * @version September 2017
+ */
+
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;

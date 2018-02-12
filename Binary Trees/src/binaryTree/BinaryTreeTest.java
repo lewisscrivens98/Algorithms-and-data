@@ -3,6 +3,14 @@ package binaryTree;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
+/**
+* A Test class created for the BinaryTree class to ensure all of the methods work
+* as intended.
+* 
+* @author Lewis Scrivens
+* @version December 2017
+*/
+
 class BinaryTreeTest
 {
 	@Test

@@ -5,9 +5,9 @@ import RandomArray.RandomIntegerArray;
 import java.util.Arrays;
 
 /**
- * The implementation of quick sort.
+ * An extension of the ArraySortTool to implement the QuickSort algorithm.
  * 
- * @author Lewis Scrivens 
+ * @author Lewis Scrivens
  * @version November 2017
  */
 

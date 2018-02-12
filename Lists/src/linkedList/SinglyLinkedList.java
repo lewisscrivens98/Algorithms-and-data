@@ -4,7 +4,7 @@ package linkedList;
 * An implementation of List<T> using singly linked lists.
 * 
 * @author Lewis Scrivens
-* @version November 2017
+* @version December 2017
 */
 
 public class SinglyLinkedList<T> implements List<T> 

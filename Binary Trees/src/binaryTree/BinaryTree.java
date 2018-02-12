@@ -1,5 +1,12 @@
 package binaryTree;
 
+/**
+* An implementation of BTree<T> to create a working binary tree with working methods.
+* 
+* @author Lewis Scrivens
+* @version December 2017
+*/
+
 public class BinaryTree<T extends Comparable<? super T>> implements BTree<T> 
 {
 	TreeNode<T> root = null;

@@ -3,7 +3,7 @@ package intArrays;
 import java.util.Arrays;
 
 /**
- * An improvement of SimpleRandomListing.
+ * An improvement of SimpleRandomListing used to randomly shuffle a given array.
  * 
  * @author Lewis Scrivens
  * @version September 2017

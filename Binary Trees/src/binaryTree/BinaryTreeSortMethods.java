@@ -2,6 +2,16 @@ package binaryTree;
 
 import java.util.List;
 
+/**
+* This class contains the sorting methods for any BTree starting from the given node.
+* The methods in this class are recursive and will print the whole binary tree from
+* the given node.
+* 
+* @author Lewis Scrivens
+* @version December 2017
+*/
+
+
 public class BinaryTreeSortMethods <T extends Comparable<? super T>> 
 {
 	public void inOrder(BTree<T> node)

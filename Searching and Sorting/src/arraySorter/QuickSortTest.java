@@ -4,6 +4,13 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 import RandomArray.RandomIntegerArray;
 
+/**
+ * A Test class for the QuickSort class to ensure all the methods work as intended.
+ * 
+ * @author Lewis Scrivens
+ * @version November 2017
+ */
+
 public class QuickSortTest 
 {
 	@Test // Array with 100 elements

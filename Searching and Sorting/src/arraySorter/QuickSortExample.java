@@ -2,6 +2,13 @@ package arraySorter;
 
 import java.util.Arrays;
 
+/**
+ * An example of the QuickSort working and printing the sorted list to the console.
+ * 
+ * @author Lewis Scrivens
+ * @version November 2017
+ */
+
 public class QuickSortExample 
 {
 	public static void main(String[] args) 
