@@ -51,8 +51,8 @@ public class DepthFirstTraversalTest<T>
 	}
 	
 	/**
-	 * 	Tests the class by checking the the outcome of the depth first
-	 *  traversal on graph is what it should be. "012453".
+	 * 	Tests the class by checking the outcome of the depth first
+	 *  traversal on graph. It should output. "0 1 2 4 5 3".
 	 * 
 	 * @throws GraphError.
 	 */
